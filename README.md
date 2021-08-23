@@ -11,8 +11,12 @@ In this process an *independent* expert party verifies the source code repositor
 
 This github directory contains the most recent declarations.
 
-* The files starting with the version number and the word 'report' contain the full declaration; including the escrow data and checksums
-* The files starting with the version number and the word 'notaris' are the 'verklaring' (notary statement).
+The filename convention is:
+
+`[holder/verifier]-version-[report/statement]-original filename`
+
+* The files starting with holder/verifier and then the version number and the word 'report' contain the full declaration; including the escrow data and checksums
+* The files starting with holder/verifier and the version number and the word 'statement' are the notary statement.
 
 [1]: https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle "Kerckhoffs's principle" 
 [2]: https://en.wikipedia.org/wiki/Source_code_escrow "Source code Escrow"
