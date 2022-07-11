@@ -11,7 +11,7 @@ In this process an *independent* expert party verifies the source code repositor
 
 This github directory contains the most recent declarations.
 
-The filename convention is:
+The filename convention is: 
 
 `[holder/verifier]-version-[report/statement]-original filename`
 
